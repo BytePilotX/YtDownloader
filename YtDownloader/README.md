@@ -1,5 +1,5 @@
-Hello, thanks for downloading my youtube video downloader
-i will try to update this as much as I can, if there is any errors file an issue on the 
+Hello, thanks for downloading the youtube video downloader
+I will try to update this as much as I can, if there is any errors file an issue on the 
 github repository so I can sort it. -- that-linux-programmer
 
 **NOTES:**
